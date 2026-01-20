@@ -2,14 +2,6 @@
 
 Modern, feature-rich PDF viewer and lightweight editor built with **Python** + **PyQt6** + **PyMuPDF (fitz)**.
 
-Clean interface · Continuous / Single page view · Form filling · Text search · Annotations · Page management · Dark mode · Zoom modes · Print support
-
-<p align="center">
-  <img src="https://placehold.co/800x500/2d3748/ffffff/png?text=PDF+Reader+Screenshot+(replace+with+real+one)" alt="Main window" width="70%"/>
-  <br/>
-  <em>Screenshot of the application (add real screenshot later)</em>
-</p>
-
 ---
 
 ⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
@@ -25,6 +17,16 @@ This repository is **source-available for private technical evaluation and testi
 
 All rights remain exclusively with the author.  
 Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
+Clean interface · Continuous / Single page view · Form filling · Text search · Annotations · Page management · Dark mode · Zoom modes · Print support
+
+<p align="center">
+  <img src="https://placehold.co/800x500/2d3748/ffffff/png?text=PDF+Reader+Screenshot+(replace+with+real+one)" alt="Main window" width="70%"/>
+  <br/>
+  <em>Screenshot of the application (add real screenshot later)</em>
+</p>
 
 ---
 
