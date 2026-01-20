@@ -138,26 +138,26 @@ Copy selected text      Ctrl + C
 - Command line mode / open file from argument
 - PyInstaller / cx_Freeze one-file executable builds
 
-### Contributing
-Pull requests welcome!</br>
-Especially interested in:
+## Contribution Policy
 
-- Text selection + copy improvement
-- Better form rendering & more field types
-- Annotation UX polish
-- Cross-platform testing & bug fixes
-- Packaging scripts (PyInstaller, briefcase, etc.)
+Feedback, bug reports, and suggestions are welcome.
 
+You may submit:
 
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-thing)
-3. Commit your changes (git commit -m 'Add amazing thing')
-4. Push to the branch (git push origin feature/amazing-thing)
-5. Open a Pull Request
+- Issues
+- Design feedback
+- Pull requests for review
 
-### 📄 License
-MIT License</br>
-Feel free to use, modify, distribute — just keep the copyright notice.
+However:
 
-⭐ If you find this useful, please give the repo a star!
-🐛 Bug reports → Issues
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+## License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
