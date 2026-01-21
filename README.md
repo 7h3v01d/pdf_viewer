@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ```
 requirements.txt example:
 ```text
-txtPyQt6>=6.6.0
+PyQt6>=6.6.0
 PyMuPDF>=1.23.0     # fitz
 ```
 3. Run the application
